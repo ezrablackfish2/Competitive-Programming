@@ -7,6 +7,7 @@ class Solution(object):
                 res += 1
                 cur = t
         return res
+
         """
         :type target: int
         :type position: List[int]
